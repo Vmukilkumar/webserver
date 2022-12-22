@@ -55,5 +55,10 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 
+### Server Side Output
+![Server Side Output](./images/serveroutput.png)
+
+### Client Side Output
+![Client Side Output](./images/clientoutput.png)
 ## RESULT:
-The program is executed succesfully
+Thus the program is to display top 3 programming languages
